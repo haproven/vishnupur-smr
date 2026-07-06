@@ -426,7 +426,7 @@ h2 {
         justify-items: center;
         justify-content: end;
         position: fixed;
-        z-index: 9;
+        z-index: 99;
         /* margin-right: 0; */
     }
 
@@ -499,7 +499,7 @@ h2 {
         box-shadow: 0 1px 7px rgba(0, 0, 0, 0.1);
         padding: 0.3rem;
         bottom: 0;
-        z-index: 9;
+        z-index: 99;
     }
 
 

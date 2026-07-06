@@ -21,6 +21,22 @@ Allow: /index.html
 
 Disallow: /403.html
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # -----------------------------------------
 # IMPORTANT DIRECTORIES
 # -----------------------------------------
@@ -47,7 +63,7 @@ Disallow: /*?sort=
 Disallow: /*?filter=
 Disallow: /*?filter=
 Disallow: /view-source:
-Disallow: /view-source:https://vishnupursmr.netlify.app/home.html
+Disallow: /view-source:https://vishnupursmr.netlify.app/page/dashboard/index.html
 
 # -----------------------------------------
 # SEARCH ENGINE SPECIFIC RULES
