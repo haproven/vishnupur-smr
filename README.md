@@ -1,66 +1,84 @@
-# vishnupur SMR (Sitamarhi)
+# Vishnupur SMR (Sitamarhi)
 
-**vishnupur (bishnupur) SMR** विष्णुपुर, सीतामढ़ी, बिहार (843324) के लिए बनाया गया एक ओपन-सोर्स वेब एप्लिकेशन है। इसका उद्देश्य गाँव की डिजिटल पहचान बनाना और गाँव से जुड़ी महत्वपूर्ण जानकारी को एक ही स्थान पर उपलब्ध कराना है।
+**Vishnupur SMR** is an open-source web application for Vishnupur (Bishnupur), Sitamarhi, Bihar, India — 843324. It aims to give the village a digital identity and keep important village information available in one place.
 
-इस वेब-ऐप को इंस्टॉल करने के बाद उपयोगकर्ता गाँव से संबंधित उपयोगी और समय-समय पर अपडेट होने वाली जानकारी आसानी से देख सकेंगे।
+Users will be able to explore useful information about the village and its community through this platform.
 
-##  विष्णुपुर SMR क्या है?
+## What Is Vishnupur SMR?
 
-विष्णुपुर SMR एक सामुदायिक डिजिटल सूचना मंच (Digital Information Platform) है, जिसका उद्देश्य गाँव के इतिहास, संस्कृति, विकास और सामुदायिक गतिविधियों को सुरक्षित रखना तथा सभी तक पहुँचाना है।
+Vishnupur SMR is a community information platform that helps preserve and share the village’s history, culture, development, and local activities.
 
-यह केवल एक वेबसाइट नहीं, बल्कि विष्णुपुर गाँव का डिजिटल रिकॉर्ड तैयार करने का एक दीर्घकालिक प्रयास है।
+It is more than a website. It is an effort to build a digital record of Vishnupur for current and future generations.
 
-##  इसमें क्या-क्या जानकारी मिलेगी?
+## What Information Will It Include?
 
-* 🏛️ गाँव का इतिहास और विरासत
-* 🗺️ गाँव की सामान्य एवं प्रशासनिक जानकारी
-* 🏫 स्कूलों और शैक्षणिक संस्थानों की जानकारी
-* 🛕 मंदिरों और धार्मिक स्थलों की जानकारी
-* 📍 महत्वपूर्ण एवं पर्यटन स्थलों की जानकारी
-* 🏪 गाँव की दुकानों और स्थानीय व्यवसायों की जानकारी
-* 👨‍💼 वर्तमान मुखिया एवं अन्य जनप्रतिनिधियों/अधिकारियों की जानकारी
-* 📞 आवश्यक संपर्क विवरण
-* 📰 गाँव से जुड़े समाचार और अपडेट
-* 🎉 दुर्गा पूजा, सरस्वती पूजा, छठ पूजा तथा अन्य स्थानीय त्योहारों की जानकारी
-* 🏫 स्कूल कार्यक्रमों और सामुदायिक गतिविधियों का विवरण
-* 📅 आगामी कार्यक्रमों की पूरी जानकारी
-* 💰 कार्यक्रमों में प्राप्त चंदा और हुए खर्च का विवरण (यदि आयोजकों द्वारा सार्वजनिक किया जाए)
-* 📸 गाँव की तस्वीरें, यादें और ऐतिहासिक रिकॉर्ड
-* 🚧 गाँव में होने वाले विकास कार्यों और भविष्य की योजनाओं की जानकारी
-* 💻 समुदाय द्वारा ओपन-सोर्स योगदान की सुविधा
+- Village history and heritage
+- General and administrative information
+- Schools and educational institutions
+- Temples and religious places
+- Important places and local attractions
+- Shops and local businesses
+- Information about the Mukhiya and other public representatives
+- Important contact details
+- Village news and updates
+- Local festivals such as Durga Puja, Saraswati Puja, and Chhath Puja
+- School events and community activities
+- Upcoming programs and events
+- Publicly shared event donations and expense details
+- Village photos, memories, and historical records
+- Development work and future plans
+- Opportunities for open-source contributions
 
-##  हमारा उद्देश्य
+## Our Mission
 
-हमारा लक्ष्य एक ऐसा विश्वसनीय डिजिटल मंच तैयार करना है, जहाँ विष्णुपुर का प्रत्येक निवासी गाँव से जुड़ी सही और उपयोगी जानकारी प्राप्त कर सके।
+Our mission is to create a useful and reliable digital platform where people can find important information about Vishnupur.
 
-साथ ही, सामुदायिक कार्यक्रमों, दान राशि और खर्च से संबंधित जानकारी को पारदर्शी तरीके से प्रस्तुत कर गाँव में जवाबदेही और विश्वास को बढ़ावा देना भी इस परियोजना का उद्देश्य है।
+We also aim to encourage transparency by sharing publicly available details about community events, donations, and expenses. This can help build trust and accountability within the community.
 
-## 🤝 योगदान करें
+## About Haproven
 
-यह एक ओपन-सोर्स प्रोजेक्ट है। यदि आप इस परियोजना में योगदान देना चाहते हैं, तो आप:
+**Haproven** is a technology initiative focused on building digital platforms, developer tools, open-source projects, and community activities.
 
-* नई जानकारी साझा कर सकते हैं,
-* पुरानी या गलत जानकारी को सुधार सकते हैं,
-* कोड में सुधार कर सकते हैं,
-* नए सुझाव दे सकते हैं,
-* तस्वीरें और ऐतिहासिक जानकारी उपलब्ध करा सकते हैं।
+Vishnupur SMR is part of this broader effort to use technology to solve real-world problems and make useful information easier to access.
 
-आपका छोटा-सा योगदान भी इस मंच को और बेहतर बनाने में मदद करेगा।
+Website: https://haproven.netlify.app
 
-## 🌐 वेबसाइट
+## About Codersusheel
+
+**Codersusheel** is the developer identity of **Susheel Kumar Pandit**, a full-stack developer and the Founder & CEO of Haproven.
+
+He started Vishnupur SMR to help give the village a digital identity and make local information easier to find, share, and preserve.
+
+GitHub: https://github.com/codersusheel
+
+## How Can You Contribute?
+
+Vishnupur SMR is an open-source project. Anyone interested in helping the community can contribute by:
+
+- Sharing useful village information
+- Correcting old or incorrect information
+- Improving the code
+- Suggesting new features
+- Sharing village photos and historical records
+- Helping keep information accurate and updated
+
+Every contribution can help make the platform more useful for the people of Vishnupur.
+
+## Website
 
 https://vishnupursmr.netlify.app
 
+## Social Media & Community
 
-### 👉 Social Media / Community Hub
-🔗 https://instagram.com/vishnupursmr 
-
-🔗 https://facebook.com/vishnupursmr 
+- Instagram: https://instagram.com/vishnupursmr
+- Facebook: https://facebook.com/vishnupursmr
 
 ---
 
-## विष्णुपुर SMR
+## Vishnupur SMR
 
-**"विष्णुपुर गाँव की डिजिटल पहचान"**
+**“The Digital Identity of Vishnupur Village”**
 
-**विरासत को संजोना • पारदर्शिता को बढ़ावा देना • समुदाय को एकजुट करना**
+*Preserving Heritage • Promoting Transparency • Bringing the Community Together*
+
+Built with the vision of **Codersusheel** and the technology-driven spirit of **Haproven**.
