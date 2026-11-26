@@ -19,3 +19,28 @@ documentation: https://github.com/haproven/vishnupur-smr
 tags: local-information, community-portal, regional-information, hindi-content, maithili-content, local-places, community-updates, useful-resources, bihar, sitamarhi, web-platform, open-source
 featured: false
 open_source: true
+
+
+
+
+
+
+
+
+
+
+
+# GitProHub
+
+protocol: GitProHub
+version: 1.0
+owner: haproven
+id:  Vishnupur-SMR
+name:  Vishnupur-SMR
+repository: https://github.com/haproven/Vishnupur-SMR
+
+description: A project registered with GitProHub API.
+
+status: active
+
+GitProHub Scan: { success: true, scanned: 22, added: 0, updated: 3, skipped: 19 }
